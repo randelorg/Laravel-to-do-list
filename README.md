@@ -5,7 +5,7 @@ This repo will use the Laravel framework and will follow the MVC architecture of
 
 create a databae named "laravel-todo-list" in localhost MySql phpMyAdmin
 
-git clone https://github.com/randelorg/Laravel-to-do-list.git quickstart
+git clone https://github.com/randelorg/Laravel-to-do-list.git 
 
 composer install
 
